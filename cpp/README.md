@@ -1,0 +1,1 @@
+Algorithms in this folder were written in C++11/14.

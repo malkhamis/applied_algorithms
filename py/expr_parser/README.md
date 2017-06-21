@@ -1,0 +1,1 @@
+This is a simple algebraic expression parser to demonstrate how queues, stack of stacks, binary trees and their traversal, and recursion are used to build an abstract syntax tree (AST) and evaluate algebraic expression.
